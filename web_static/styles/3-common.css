@@ -1,0 +1,16 @@
+.display-flex {
+  display: flex;
+}
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: white;
+  color: #484848;
+  font-size: 14px;
+  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.flex {
+  flex: 1;
+}
